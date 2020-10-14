@@ -1,0 +1,17 @@
+{
+  "name": "url-replace-loader",
+  "version": "1.0.1",
+  "description": "vue url路径替换工具",
+  "keywords": [
+    "vue",
+    "webpack-loader",
+    "url-prefix",
+    "url前缀替换"
+  ],
+  "main": "index.js",
+  "author": "Halo",
+  "license": "MIT",
+  "devDependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
