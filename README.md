@@ -1,4 +1,4 @@
-# url-replace-loader
+# vue-url-replace-loader
 
 > webpack url 替换工具 (前缀替换)
 

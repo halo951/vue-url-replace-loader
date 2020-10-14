@@ -1,5 +1,5 @@
 {
-  "name": "url-replace-loader",
+  "name": "vue-url-replace-loader",
   "version": "1.0.1",
   "description": "vue url路径替换工具",
   "keywords": [
