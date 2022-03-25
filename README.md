@@ -1,6 +1,7 @@
 # vue-url-replace-loader
 
 > webpack url 替换工具 (前缀替换)
+> support webpack 4.x (deprecated)
 
 ## usage
 
